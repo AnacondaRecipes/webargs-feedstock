@@ -1,0 +1,9 @@
+aggregate_check: false
+platforms:
+  - linux-64
+channels:
+  - services
+  - sfe1ed40
+upload_channels:
+  - services
+  - sfe1ed40
